@@ -1,8 +1,13 @@
 # OpenGraph: Towards Open Graph Foundation Models
 
 
-A foundation graph model <b><i>distilling zero-shot graph generalizability from LLMs</i></b>.
+<img src='imgs/opengraph_article_cover_full.png' />
 
+
+
+Presenting OpenGraph, a foundation graph model <b><i>distilling zero-shot graph generalizability from LLMs</i></b>.
+
+<img src='imgs/intro.png' width=60% />
 
 </div>
 
@@ -11,7 +16,7 @@ To achieve this goal, OpenGraph addresses several key technical challenges:
 - We develop a scalable graph transformer as the foundational encoder, which effectively and efficiently captures node-wise dependencies within the global topological context. 
 - We introduce a data augmentation mechanism enhanced by a large language model (LLM) to alleviate the limitations of data scarcity in real-world scenarios.
 
-
+<img src='imgs/framework.png' />
 
 Extensive experiments validate the effectiveness of our framework. By adapting OpenGraph to new graph characteristics and comprehending the nuances of diverse graphs, our approach achieves remarkable zero-shot graph learning performance across various settings and domains.
 
