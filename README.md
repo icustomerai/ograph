@@ -7,7 +7,6 @@
 <img src="https://badges.pufler.dev/visits/hkuds/opengraph?style=flat-square&logo=github">
 <img src='https://img.shields.io/github/stars/hkuds/opengraph?color=green&style=social' />
 
-<a href='https://akaxlh.github.io/'>Lianghao Xia</a>, <a href='https://scholar.google.com/citations?user=TwSParMAAAAJ'>Ben Kao</a>, and <a href='https://sites.google.com/view/chaoh/group-join-us'>Chao Huang*</a> (*Correspondence)
 
 <img src='imgs/opengraph_article_cover_full.png' />
 
